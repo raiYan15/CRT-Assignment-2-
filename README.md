@@ -17,7 +17,7 @@ Smooth animations and hover effects
 HTML | CSS | JavaScript | (Add frameworks if used: e.g., Bootstrap, Tailwind, React, etc.)
 
 🔹 Live Demo
-👉 (https://app.netlify.com/teams/raiyan15/projects))
+👉 (https://crt-assignment-2.netlify.app/)
 
 🔹 Note
 This clone is for educational purposes and personal learning — no copyrighted content is included.
